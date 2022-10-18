@@ -24,6 +24,3 @@ spec:
   ignoreDifferences:
   - group: *
     kind: *
-    managedFieldsManagers:
-    - kube-controller-manager
-   
